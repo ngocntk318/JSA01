@@ -40,13 +40,13 @@
 // console.log(ngoc);
 
 var myDog = {
-    'name': 'Ngao';
-    'legs': 4;
-    'friends': ['everything!']
+    "name": "Ngao",
+    "legs": 4,
+    "friends": ["everything!"],
 };
 console.log(myDog.name);
-myDog.name = Husky;
-myDog.color = "brown"
+myDog.name = "Husky"
+myDog.color = "brown";
 console.log(myDog.color);
 myDog.friends;
-console.
+console.Log("friends");
